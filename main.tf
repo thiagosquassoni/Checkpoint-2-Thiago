@@ -15,7 +15,7 @@ provider "aws" {
 
 # S3 Bucket
 resource "aws_s3_bucket" "b" {
- bucket = "aws-s3-luis-rm94405-checkpoint02"  
+ bucket = "aws-s3-thiago-rm95610-checkpoint02"  
 }
 
 # S3 Bucket - Config Static Website
