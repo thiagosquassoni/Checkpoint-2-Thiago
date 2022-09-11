@@ -1,4 +1,4 @@
-name: to S3 and AWS
+name: S3 AWS Thiago
 
 on:
   push:
